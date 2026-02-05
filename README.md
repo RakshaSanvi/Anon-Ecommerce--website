@@ -26,6 +26,6 @@ Classy landing page with unique logo/banner image
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: (Add here – e.g., Node.js / Express / Python / PHP if used)
+Backend: ( e.g., Node.js / Express / Python / PHP if used)
 
-Database: (Add here – e.g., MongoDB / MySQL / LocalStorage)
+Database: ( e.g., MongoDB / MySQL / LocalStorage)
